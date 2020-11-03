@@ -1,0 +1,21 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+My current research areas involve congenital heart defects, preterm birth and pediatric cancers. The goals I’m attempting to achieve in my research are: 
+
++ developing computational processes to use electronic health records for the phenomics of genetic disorders.
++ developing analytics systems and algorithms to detect pathogenic genes, genetic variants, and risk factors, and improve our understanding of the etiology.
+
+### Phenotypes from electronic health records
+There are more than 7,000 known genetic diseases, most of which are monogenic disorders, many of which have very low prevalence in the population (<3,500 patients in the US). Besides their very low prevalence, many rare genetic disorders present heterogeneous phenotypes in patients in terms of organs/tissues affected and the severity among individuals. This makes recognition and diagnosis of these disorders very difficult, resulting in years-long delays for many rare genetic disease patients before they can receive a correct diagnosis. In our previous research, we found electronic health record (EHR) contains a lot of phenotypic information for predicting genetic diseases. Through natural language processing and machine learning, EHR can become very informative data source for screening patients for genetic disorders.
+
+### Pathogenic genes and genetic variants
+Genetic diseases, especially Mendelian disorders are mainly caused by rare pathogenic genetic variants. While many genes causing Mendelian disorders have been identified, genes and genetic variants underlying the large majority of patients with genetic diseases remain unknown. By integrating DNA sequencing data and disease phenotypes with other functional annotations and experiment results, more novel pathogenic genes and variants can be discovered. Computing infrastructure and bioinformatics methods play increasingly important roles in the studies.
+
+### Risk factors for diseases
+Complex disease, such as premature birth, is caused by the interaction of multiple genes and environmental factors. Systematic analysis of large scale genetic and clinical data can help identify the associations and causalities of the risk factors. For example, by using genetic risk scores from separate haplotypes involved in pregnancy, and Mendelian randomization, the maternal, paternal and enviromental contribution towards premature birth can be delineated more cleanly.
+
+
+

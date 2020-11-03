@@ -1,0 +1,22 @@
+name: "Jing Chen"
+output_dir: "."
+navbar:
+  title: "Jing Chen"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Applications"
+      href: applications.html
+    - text: "Publications"
+      href: https://scholar.google.com/citations?user=g51oM6MAAAAJ&hl=en
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/jing-chen-18ba026/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'

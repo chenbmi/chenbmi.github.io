@@ -1,0 +1,12 @@
+name: home
+title:
+username:
+account: bmichen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3130289
+bundleId: 3800749
+url: https://bmichen.shinyapps.io/home/
+when: 1604065847.76208
+asMultiple: FALSE
+asStatic: FALSE
